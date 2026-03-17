@@ -1,0 +1,1 @@
+00 05 * * * /usr/bin/curl --location 'http://localhost:8181/sync-rps'
